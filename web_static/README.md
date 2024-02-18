@@ -73,4 +73,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Mavis Beacon** - [unbow-unbent-unbroken](https://github.com/unbow-unbent-unbroken)
+* **Mavis Iyoha** - [unbow-unbent-unbroken](https://github.com/unbow-unbent-unbroken)
