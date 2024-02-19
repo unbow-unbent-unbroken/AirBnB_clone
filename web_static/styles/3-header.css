@@ -1,19 +1,20 @@
 header {
     background-color: white;
-    height: 60px;
+    height: 70px;
     width: 100%;
-
+    display: flex;
     border-bottom: 1px, solid #CCCCCC;
+    align-items: center;
     
 }
 
 #header_logo {
-    height: 100%;
-    width: 140px;
+    height: 80%;
+    width: 142px;
 
     background-image: url("../images/logo.png");
     background-position: center;
     background-repeat: no-repeat;
 
-    margin-left: 20px;
+    padding-left: 20px;
 }
